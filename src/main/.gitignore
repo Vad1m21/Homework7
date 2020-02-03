@@ -1,6 +1,6 @@
 .idea
 *.iws
-*.iml
+*.ixml
 *.ipr
 *target
 .DS_STORE
