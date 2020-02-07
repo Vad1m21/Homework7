@@ -2,14 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2eb85804-510d-4b69-951f-012837d35220" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/launcher/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/launcher/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/player/PlayerFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/player/PlayerFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/player/PlayerFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/player/PlayerFour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/player/PlayerSix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/player/PlayerSix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/player/PlayerThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/player/PlayerThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/launcher/Launcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/launcher/Launcher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/player/CheaperPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/player/CheaperPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/player/ExpensivePlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/player/ExpensivePlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/player/PlayerFive.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/player/PlayerFive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/player/PlayerFour.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/player/PlayerFour.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/player/PlayerOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/player/PlayerOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/player/PlayerSix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/player/PlayerSix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/player/PlayerThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/player/PlayerThree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/player/PlayerTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/player/PlayerTwo.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -80,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580767621768</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fourth">
+      <created>1580767822470</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580767822470</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,7 +117,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -97,6 +128,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second" />
     <MESSAGE value="third" />
-    <option name="LAST_COMMIT_MESSAGE" value="third" />
+    <MESSAGE value="fourth" />
+    <option name="LAST_COMMIT_MESSAGE" value="fourth" />
   </component>
 </project>

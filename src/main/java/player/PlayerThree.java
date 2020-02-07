@@ -1,17 +1,24 @@
 package player;
 
+import java.util.Arrays;
+
+import static player.PlayList.playList1;
+
 public class PlayerThree extends ExpensivePlayer{
 
     private final int price;
-    private String [] playList = {"The best song","Good song","Super song"};
+    private String [] playList;
 
-    public PlayerThree(int price) {
+    public PlayerThree(int price,String [] playList) {
         this.price = price;
+        this.playList = playList;
     }
 
     public int getPrice() {
         return price;
     }
+
+
 
 
     @Override

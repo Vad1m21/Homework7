@@ -18,30 +18,30 @@ public class Launcher {
     }
 
     public  void launcherForPLayerThree(){
-        PlayerThree playerThree = new PlayerThree(30);
+        PlayerThree playerThree = new PlayerThree(30,PlayList.playList1);
         playerThree.playSong();
         playerThree.playAllSong();
 
     }
 
     public void launcherForPlayerFour(){
-        PlayerFour playerFour = new PlayerFour(35);
+        PlayerFour playerFour = new PlayerFour(35,PlayList.playList1);
         playerFour.playSong();
         playerFour.playAllSong();
     }
 
     public void launcherForPlayerFive(){
 
-        PlayerFive playerFive = new PlayerFive(40);
+        PlayerFive playerFive = new PlayerFive(40,PlayList.playList1);
         playerFive.playSong();
         playerFive.playAllSong();
     }
 
     public void launcherForPlayerSix(){
-        int randomNumber = 0 + (int)((Math.random()) *2);
-        PlayerSix playerSix = new PlayerSix(60);
+
+        PlayerSix playerSix = new PlayerSix(60,PlayList.playList1);
         playerSix.playSong();
-        playerSix.shuffle(randomNumber);
+        playerSix.shuffle();
         playerSix.playAllSong();
     }
 

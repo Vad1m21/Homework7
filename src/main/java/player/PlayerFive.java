@@ -3,11 +3,12 @@ package player;
 public class PlayerFive extends ExpensivePlayer {
 
     private final int price;
-    private String [] playList = {"The best song","Good song","Super song"};
+    private String [] playList;
 
 
-    public PlayerFive(int price) {
+    public PlayerFive(int price,String [] playList) {
         this.price = price;
+        this.playList = playList;
     }
 
     public int getPrice() {
