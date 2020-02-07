@@ -19,8 +19,6 @@ public class PlayerThree extends ExpensivePlayer{
     }
 
 
-
-
     @Override
    public void playSong() {
         String song = playList[0];
